@@ -68,6 +68,12 @@ According to Chain rule if a variable z depends on the variable y, which itself 
 
 ![CR](https://github.com/ganeshkcs/END2/blob/master/S1/chain-rule.png)
 
+So in terms of neural network
+
+![BP](https://github.com/ganeshkcs/END2/blob/master/S1/BP.png)
+
+We back propagate to reduce the loss, so to minimise the loss the weights are adjusted from the output layer, so the output layer is dependent on the prevevious layer output, similarly all the layers output are dependent on their previous layer outputs, this is called chain rule in neural networks.
+
 
 
  
