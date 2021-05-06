@@ -50,11 +50,11 @@ Loss is prediction of error in a Neural Network and the method to calculate the 
 
 There are various Loss functions, the most common ones are shown below.
 
-**Mean Sqaured  Error: **
+**Mean Sqaured Error:**
 
 MSE loss is used for regression tasks. As the name suggests, this loss is calculated by taking the mean of squared differences between actual(target) and predicted values.
 
-**Binary Crossentropy: **
+**Binary Crossentropy:**
 
 BCE loss is used for the binary classification tasks. If you are using BCE loss function, you just need one output node to classify the data into two classes. The output value should be passed through a sigmoid activation function and the range of output is (0 – 1).
 
