@@ -2,11 +2,11 @@
 
 ## What is a neural network neuron?
 
-Neural network neurons are similar to the biological neurons where they take an input, act on the input with an activation fuction and gives us an output. A                single neuron will look as shown below.
+Neural network neurons are similar to the biological neurons where they take an input, act on the input with an activation fuction and gives us an output. A single neuron will look as shown below.
 
 ![Neuron](https://github.com/ganeshkcs/END2/blob/master/S1/Neuron.png)
 
-Collection of such neurons will form a neural network.
+Collection of such neurons and their interactions will form a neural network.
 
 ![Neural-Network](https://github.com/ganeshkcs/END2/blob/master/S1/Neural-network.png)
 
@@ -39,14 +39,28 @@ To understand the initialization weights we will go through the below cases.
 
 If the weights are set to 0 then the derivative with respect to loss is same for all the weights and makes the hidden units symmetric and continueos for all the iterations, which will result getting the same output.
 
-**When weights are initialized to Randomly:**
+**When weights are initialized randomly:**
 
 When the weights are initialized randomly which follows a normal distribution, we should ensure that the weights are not too high and too low. If we initialize large weights, the activation will be large, resulting in zero slope (in case of sigmoid and tanh activation function). Hence, learning will be slow. If the weights are intialized with very low values, it gets mapped to 0 and we will face the problem as discussed above, this is called as Vanishing Gradient Problem. So we generally multipy the randomly intialized weights with a constant ( say 0.01) so that it is not too large and low.
 
 
+## What is 'Loss' in a neural network?
 
+Loss is prediction of error in a Neural Network and the method to calculate the loss is called Loss Function.
 
+There are various Loss functions, the most common ones are shown below.
+
+**Mean Sqaured  Error: **
+
+MSE loss is used for regression tasks. As the name suggests, this loss is calculated by taking the mean of squared differences between actual(target) and predicted values.
+
+**Binary Crossentropy: **
+
+BCE loss is used for the binary classification tasks. If you are using BCE loss function, you just need one output node to classify the data into two classes. The output value should be passed through a sigmoid activation function and the range of output is (0 – 1).
+
+ **Categorical Crossentropy:**
  
+When we have a multi-class classification task, one of the loss function you can go ahead is this one. If you are using CCE loss function, there must be the same number of output nodes as the classes. And the final layer output should be passed through a softmax activation so that each node output a probability value between (0–1).
  
 
 
