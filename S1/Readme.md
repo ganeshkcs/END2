@@ -4,5 +4,5 @@
 
 Neural network neurons are similar to the biological neurons where they take an input, act on the input with an activation fuction and gives us an output. A single neuron will look as shown below.
 
-![BG] (https://github.com/ganeshkcs/END2/blob/master/S1/Neuron.png)
+![BG](https://github.com/ganeshkcs/END2/blob/master/S1/Neuron.png)
 
