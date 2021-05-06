@@ -1,8 +1,18 @@
 # Assignment:
 
-1. What is a neural network neuron?
+# What is a neural network neuron?
 
-Neural network neurons are similar to the biological neurons where they take an input, act on the input with an activation fuction and gives us an output. A single neuron will look as shown below.
+Neural network neurons are similar to the biological neurons where they take an input, act on the input with an activation fuction and gives us an output. A                single neuron will look as shown below.
 
-![BG](https://github.com/ganeshkcs/END2/blob/master/S1/Neuron.png)
+![Neuron](https://github.com/ganeshkcs/END2/blob/master/S1/Neuron.png)
+
+Collection of such neurons will form a neural network.
+
+![Neural-Network](https://github.com/ganeshkcs/END2/blob/master/S1/Neural-network.png)
+
+# What is the use of learning rate?
+
+
+
+
 
