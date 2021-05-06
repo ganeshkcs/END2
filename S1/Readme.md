@@ -82,6 +82,9 @@ Rewrite the Colab file and:
 * make sure there are in total 44 parameters
 * run it for 2001 epochs
 
+Link to Colab file https://github.com/ganeshkcs/END2/blob/master/S1/END2_0_Session_1.ipynb
+
+
  
 
 
