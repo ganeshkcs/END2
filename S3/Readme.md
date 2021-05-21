@@ -12,7 +12,7 @@
 
 ## Data preparation: 
 
-Used dataloader from pytorch and in that injected random variable as a input in the __getitem__ along with random 
+Created custom dataset which downloads MNIST dataset and implemented  __getitem__ function which returns image, label random_ input, random 
 traget which is sum of random_input + label.
 
 ## Combined two inputs :
@@ -21,7 +21,7 @@ Took argmax of image output and stacked with random input number and passed onto
 
 
 ## Evaluating results : 
-Made test loader using the same stratagy as the train data loder and doing evaluation on it.
+Evaluated test the results by splitting the dataset into in train set and test set and also caluating the accuracy for image and additon of random number.
 
 
 ## Loss function : 
