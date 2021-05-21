@@ -29,8 +29,9 @@ Evaluated test the results by splitting the dataset into in train set and test s
 For image classification used cross-entropy loss as its a classification task & mse loss for random_ouput evaluation as it is regression and combined loss is propagated back to update the weights.
 
 ## Final Results:
-
-Got greater than 97% test accuracy for 10 epochs in image classification and random number addition.
+Epochs: 10
+Accuracy-Image : 98.73
+Accuracy-Addition : 97.73
 
 ## GitHub Link : 
 https://github.com/ganeshkcs/END2/blob/master/S3/MNIST-ADDITION.ipynb
