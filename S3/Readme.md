@@ -1,14 +1,14 @@
 ## Write a neural network that can
 
-1. take 2 inputs:
-   1. an image from MNIST dataset, and
-   2. a random number between 0 and 9
-2. and gives two outputs:
-   1. the "number" that was represented by the MNIST image, and
-   2. the "sum" of this number with the random number that was generated and sent as the input to the network
+1. Take 2 inputs:
+   1. An image from MNIST dataset, and
+   2. A random number between 0 and 9
+2. And gives two outputs:
+   1. The "number" that was represented by the MNIST image, and
+   2. The "sum" of this number with the random number that was generated and sent as the input to the network
       ![NN.png](https://github.com/ganeshkcs/END2/blob/master/S3/assign-2.png)   
-3. you can mix fully connected layers and convolution layers
-4. you can use one-hot encoding to represent the random number input as well as the "summed" output. 
+3. You can mix fully connected layers and convolution layers
+4. You can use one-hot encoding to represent the random number input as well as the "summed" output. 
 
 ## Data preparation: 
 
