@@ -1,3 +1,15 @@
+## Write a neural network that can
+
+1. take 2 inputs:
+   1. an image from MNIST dataset, and
+   2. a random number between 0 and 9
+2. and gives two outputs:
+   1. the "number" that was represented by the MNIST image, and
+   2. the "sum" of this number with the random number that was generated and sent as the input to the network
+      ![NN.png](https://github.com/ganeshkcs/END2/blob/master/S3/assign-2.png)   
+3. you can mix fully connected layers and convolution layers
+4. you can use one-hot encoding to represent the random number input as well as the "summed" output. 
+
 ## Data preparation: 
 
 Used dataloader from pytorch and in that injected random variable as a input in the __getitem__ along with random 
