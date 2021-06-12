@@ -42,4 +42,5 @@ The  Defined Parameters for each class are as mentioned below:
 
 ![](https://github.com/JahnaviRamagiri/END2.0/blob/main/Session6/images/Acuracy.png)
 
-
+**Link to file**
+https://github.com/ganeshkcs/END2/blob/master/S6/Tweets_6_session.ipynb
