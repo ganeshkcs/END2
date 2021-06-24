@@ -19,7 +19,7 @@ which may differ from the difficulty in field 4.<br />
 Field 6 is the relative path to the prefix of the article files. html files (.htm) and cleaned <br />
 text (.txt) files are provided.
 
-### [Model1](https://github.com/ganeshkcs/END2/blob/master/S7/Part2/CMU_QA_Dataset.ipynb)
+### [Model](https://github.com/ganeshkcs/END2/blob/master/S7/Part2/CMU_QA_Dataset.ipynb)
 
 ### Architecture
 
@@ -136,6 +136,8 @@ Quora Dataset
 - Identify which questions asked on Quora are duplicates of questions that have already been asked. 
 - This could be useful to instantly provide answers to questions that have already been answered. 
 - We are tasked with predicting whether a pair of questions are duplicates or not. 
+
+### [Model](https://github.com/ganeshkcs/END2/blob/master/S7/Part2/Quora_dataset.ipynb)
 
 ### Architecture
 
