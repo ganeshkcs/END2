@@ -30,15 +30,20 @@ text (.txt) files are provided.
 Epoch: 01 | Time: 0m 3s <br />
 	Train Loss: 4.842 | Train PPL: 126.727 <br />
 	 Val. Loss: 3.957 |  Val. PPL:  52.289 <br />
-Epoch: 02 | Time: 0m 3s
-	Train Loss: 4.426 | Train PPL:  83.574
-	 Val. Loss: 3.879 |  Val. PPL:  48.358
-Epoch: 03 | Time: 0m 3s
-	Train Loss: 4.326 | Train PPL:  75.665
-	 Val. Loss: 3.911 |  Val. PPL:  49.970
+	 
+Epoch: 02 | Time: 0m 3s <br />
+	Train Loss: 4.426 | Train PPL:  83.574 <br />
+	 Val. Loss: 3.879 |  Val. PPL:  48.358 <br />
+	 
+Epoch: 03 | Time: 0m 3s <br />
+	Train Loss: 4.326 | Train PPL:  75.665 <br />
+	 Val. Loss: 3.911 |  Val. PPL:  49.970 <br />
+	 
 Epoch: 04 | Time: 0m 4s
+
 	Train Loss: 4.273 | Train PPL:  71.749
-	 Val. Loss: 3.899 |  Val. PPL:  49.364
+	
+	Val. Loss: 3.899 |  Val. PPL:  49.364
 Epoch: 05 | Time: 0m 3s
 	Train Loss: 4.206 | Train PPL:  67.095
 	 Val. Loss: 3.898 |  Val. PPL:  49.315
