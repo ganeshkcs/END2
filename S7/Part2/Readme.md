@@ -27,9 +27,9 @@ text (.txt) files are provided.
 
 # Training Logs
 
-Epoch: 01 | Time: 0m 3s
-	Train Loss: 4.842 | Train PPL: 126.727
-	 Val. Loss: 3.957 |  Val. PPL:  52.289
+Epoch: 01 | Time: 0m 3s <br />
+	Train Loss: 4.842 | Train PPL: 126.727 <br />
+	 Val. Loss: 3.957 |  Val. PPL:  52.289 <br />
 Epoch: 02 | Time: 0m 3s
 	Train Loss: 4.426 | Train PPL:  83.574
 	 Val. Loss: 3.879 |  Val. PPL:  48.358
