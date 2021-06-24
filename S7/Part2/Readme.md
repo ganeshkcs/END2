@@ -19,13 +19,13 @@ which may differ from the difficulty in field 4.<br />
 Field 6 is the relative path to the prefix of the article files. html files (.htm) and cleaned <br />
 text (.txt) files are provided.
 
-# [Model1](https://github.com/ganeshkcs/END2/blob/master/S7/Part2/CMU_QA_Dataset.ipynb)
+### [Model1](https://github.com/ganeshkcs/END2/blob/master/S7/Part2/CMU_QA_Dataset.ipynb)
 
-# Architecture
+### Architecture
 
-![Neural-Network](https://github.com/ganeshkcs/END2/blob/master/S7/Part2/CMU_QA_Architecture.png)
+![QA](https://github.com/ganeshkcs/END2/blob/master/S7/Part2/CMU_QA_Architecture.png)
 
-# Training Logs
+### Training Logs
 
 Epoch: 01 | Time: 0m 3s 
 
@@ -123,7 +123,70 @@ Epoch: 20 | Time: 0m 3s
 	Train Loss: 3.512 | Train PPL:  33.531
 	Val. Loss: 3.866 |  Val. PPL:  47.773
    
-# Test Loss 
+### Test Loss 
 
  Test Loss: 3.671 | Test PPL:  39.279 
+ 
+ 
+Quora Dataset
+==============
+
+
+###  Problem Statement 
+- Identify which questions asked on Quora are duplicates of questions that have already been asked. 
+- This could be useful to instantly provide answers to questions that have already been answered. 
+- We are tasked with predicting whether a pair of questions are duplicates or not. 
+
+### Architecture
+
+![QUORA](https://github.com/ganeshkcs/END2/blob/master/S7/Part2/Quora.png)
+
+### Training Log
+
+Epoch: 01 | Time: 5m 7s
+
+	Train Loss: 4.506 | Train PPL:  90.563
+	 Val. Loss: 4.474 |  Val. PPL:  87.743
+	 
+Epoch: 02 | Time: 5m 7s
+
+	Train Loss: 3.462 | Train PPL:  31.884
+	 Val. Loss: 4.037 |  Val. PPL:  56.681
+Epoch: 03 | Time: 5m 8s
+
+	Train Loss: 3.012 | Train PPL:  20.324
+	Val. Loss: 3.845 |  Val. PPL:  46.774
+Epoch: 04 | Time: 5m 8s
+
+	Train Loss: 2.742 | Train PPL:  15.512
+	Val. Loss: 3.788 |  Val. PPL:  44.151
+Epoch: 05 | Time: 5m 8s
+
+	Train Loss: 2.550 | Train PPL:  12.804
+	Val. Loss: 3.746 |  Val. PPL:  42.360
+Epoch: 06 | Time: 5m 8s
+
+	Train Loss: 2.404 | Train PPL:  11.067
+	Val. Loss: 3.728 |  Val. PPL:  41.578
+Epoch: 07 | Time: 5m 9s
+
+	Train Loss: 2.299 | Train PPL:   9.961
+	Val. Loss: 3.759 |  Val. PPL:  42.920
+Epoch: 08 | Time: 5m 10s
+
+	Train Loss: 2.209 | Train PPL:   9.106
+	Val. Loss: 3.709 |  Val. PPL:  40.816
+Epoch: 09 | Time: 5m 10s
+
+	Train Loss: 2.130 | Train PPL:   8.415
+	Val. Loss: 3.733 |  Val. PPL:  41.823
+Epoch: 10 | Time: 5m 10s
+
+	Train Loss: 2.072 | Train PPL:   7.942
+	Val. Loss: 3.793 |  Val. PPL:  44.372
+	
+
+### Testing Loss
+
+ | Test Loss: 3.669 | Test PPL:  39.207 |
  
