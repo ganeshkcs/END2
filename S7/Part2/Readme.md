@@ -27,71 +27,101 @@ text (.txt) files are provided.
 
 # Training Logs
 
-Epoch: 01 | Time: 0m 3s <br />
-	Train Loss: 4.842 | Train PPL: 126.727 <br />
-	 Val. Loss: 3.957 |  Val. PPL:  52.289 <br />
+Epoch: 01 | Time: 0m 3s 
+
+	Train Loss: 4.842 | Train PPL: 126.727 
+	Val. Loss: 3.957 |  Val. PPL:  52.289 
 	 
-Epoch: 02 | Time: 0m 3s <br />
-	Train Loss: 4.426 | Train PPL:  83.574 <br />
-	 Val. Loss: 3.879 |  Val. PPL:  48.358 <br />
+Epoch: 02 | Time: 0m 3s 
+
+	Train Loss: 4.426 | Train PPL:  83.574 
+	Val. Loss: 3.879 |  Val. PPL:  48.358 
 	 
-Epoch: 03 | Time: 0m 3s <br />
-	Train Loss: 4.326 | Train PPL:  75.665 <br />
-	 Val. Loss: 3.911 |  Val. PPL:  49.970 <br />
+Epoch: 03 | Time: 0m 3s
+
+	Train Loss: 4.326 | Train PPL:  75.665 
+	Val. Loss: 3.911 |  Val. PPL:  49.970 
 	 
 Epoch: 04 | Time: 0m 4s
 
 	Train Loss: 4.273 | Train PPL:  71.749
-	
 	Val. Loss: 3.899 |  Val. PPL:  49.364
+	
 Epoch: 05 | Time: 0m 3s
+
 	Train Loss: 4.206 | Train PPL:  67.095
-	 Val. Loss: 3.898 |  Val. PPL:  49.315
+	Val. Loss: 3.898 |  Val. PPL:  49.315
+	
 Epoch: 06 | Time: 0m 3s
+
 	Train Loss: 4.175 | Train PPL:  65.013
-	 Val. Loss: 3.906 |  Val. PPL:  49.691
+	Val. Loss: 3.906 |  Val. PPL:  49.691
+	
 Epoch: 07 | Time: 0m 3s
+
 	Train Loss: 4.149 | Train PPL:  63.351
-	 Val. Loss: 3.932 |  Val. PPL:  51.028
+	Val. Loss: 3.932 |  Val. PPL:  51.028
+	
 Epoch: 08 | Time: 0m 3s
+
 	Train Loss: 4.100 | Train PPL:  60.338
-	 Val. Loss: 3.939 |  Val. PPL:  51.345
+	Val. Loss: 3.939 |  Val. PPL:  51.345
 Epoch: 09 | Time: 0m 3s
+
 	Train Loss: 4.059 | Train PPL:  57.895
-	 Val. Loss: 3.924 |  Val. PPL:  50.582
+	Val. Loss: 3.924 |  Val. PPL:  50.582
 Epoch: 10 | Time: 0m 3s
+
 	Train Loss: 4.041 | Train PPL:  56.896
-	 Val. Loss: 3.937 |  Val. PPL:  51.248
+	Val. Loss: 3.937 |  Val. PPL:  51.248
 Epoch: 11 | Time: 0m 3s
+
 	Train Loss: 4.012 | Train PPL:  55.248
-	 Val. Loss: 3.959 |  Val. PPL:  52.413
+	Val. Loss: 3.959 |  Val. PPL:  52.413
+	
 Epoch: 12 | Time: 0m 3s
+
 	Train Loss: 3.940 | Train PPL:  51.410
 	 Val. Loss: 3.944 |  Val. PPL:  51.641
 Epoch: 13 | Time: 0m 3s
+
 	Train Loss: 3.901 | Train PPL:  49.447
 	 Val. Loss: 3.932 |  Val. PPL:  50.988
+	 
 Epoch: 14 | Time: 0m 3s
+
 	Train Loss: 3.855 | Train PPL:  47.252
-	 Val. Loss: 3.980 |  Val. PPL:  53.498
+	Val. Loss: 3.980 |  Val. PPL:  53.498
+	
 Epoch: 15 | Time: 0m 4s
+
 	Train Loss: 3.816 | Train PPL:  45.415
-	 Val. Loss: 3.991 |  Val. PPL:  54.099
+	Val. Loss: 3.991 |  Val. PPL:  54.099
+	
 Epoch: 16 | Time: 0m 3s
+
 	Train Loss: 3.793 | Train PPL:  44.406
-	 Val. Loss: 3.987 |  Val. PPL:  53.877
+	Val. Loss: 3.987 |  Val. PPL:  53.877
+	
 Epoch: 17 | Time: 0m 3s
+
 	Train Loss: 3.753 | Train PPL:  42.669
-	 Val. Loss: 3.958 |  Val. PPL:  52.375
+	Val. Loss: 3.958 |  Val. PPL:  52.375
+	
 Epoch: 18 | Time: 0m 3s
+
 	Train Loss: 3.667 | Train PPL:  39.120
-	 Val. Loss: 4.039 |  Val. PPL:  56.763
+	Val. Loss: 4.039 |  Val. PPL:  56.763
+	
 Epoch: 19 | Time: 0m 3s
+
 	Train Loss: 3.603 | Train PPL:  36.706
-	 Val. Loss: 3.852 |  Val. PPL:  47.075
+	Val. Loss: 3.852 |  Val. PPL:  47.075
+	
 Epoch: 20 | Time: 0m 3s
+
 	Train Loss: 3.512 | Train PPL:  33.531
-	 Val. Loss: 3.866 |  Val. PPL:  47.773
+	Val. Loss: 3.866 |  Val. PPL:  47.773
    
 # Test Loss 
 
