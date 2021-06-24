@@ -26,19 +26,7 @@ text (.txt) files are provided.
 
 # Architecture
 
-Seq2Seq(
-  (encoder): Encoder(
-    (embedding): Embedding(2197, 256)
-    (rnn): LSTM(256, 512, num_layers=2, dropout=0.5)
-    (dropout): Dropout(p=0.5, inplace=False)
-  )
-  (decoder): Decoder(
-    (embedding): Embedding(1504, 256)
-    (rnn): LSTM(256, 512, num_layers=2, dropout=0.5)
-    (fc_out): Linear(in_features=512, out_features=1504, bias=True)
-    (dropout): Dropout(p=0.5, inplace=False)
-  )
-)
+![Neural-Network](https://github.com/ganeshkcs/END2/blob/master/S7/Part2/CMU_QA_Architecture.png)
 
 # Training Logs
 
