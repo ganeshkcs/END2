@@ -10,13 +10,13 @@ column names for the tab-separated data fields in the file. This first line foll
 
 ArticleTitle    Question        Answer  DifficultyFromQuestioner        DifficultyFromAnswerer  ArticleFile
 
-Field 1 is the name of the Wikipedia article from which questions and answers initially came.
-Field 2 is the question.
-Field 3 is the answer.
-Field 4 is the prescribed difficulty rating for the question as given to the question-writer. 
-Field 5 is a difficulty rating assigned by the individual who evaluated and answered the question, 
-which may differ from the difficulty in field 4.
-Field 6 is the relative path to the prefix of the article files. html files (.htm) and cleaned 
+Field 1 is the name of the Wikipedia article from which questions and answers initially came.<br />
+Field 2 is the question.<br />
+Field 3 is the answer.<br />
+Field 4 is the prescribed difficulty rating for the question as given to the question-writer. <br />
+Field 5 is a difficulty rating assigned by the individual who evaluated and answered the question, <br />
+which may differ from the difficulty in field 4.<br />
+Field 6 is the relative path to the prefix of the article files. html files (.htm) and cleaned <br />
 text (.txt) files are provided.
 
 # [Model1](https://github.com/ganeshkcs/END2/blob/master/S7/Part2/CMU_QA_Dataset.ipynb)
